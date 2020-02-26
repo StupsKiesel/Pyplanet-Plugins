@@ -1,0 +1,14 @@
+
+<frame pos="-160.25 -45.75" z-index="60" id="player_toolbar_bar_frame">
+  <quad pos="0 -0.25" z-index="0" size="6.5 6" bgcolor="00000060"/>
+
+
+
+  <!-- Icon -->
+  <label pos="3.25 -3.2" z-index="1" size="6.5 6" text="" halign="center" valign="center2"
+         id="player_toolbar_bar_button_view"
+         scriptevents="1" action="{{ id }}__bar_button_view" />
+ 
+</frame>
+
+
