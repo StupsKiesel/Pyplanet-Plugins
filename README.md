@@ -2,10 +2,13 @@
 All the litle Plugind that were made by me or with me
 All the plugins need to be installed in "...\pyplanet\apps\custom\"
 
+
 Donatewidget: 
 A litle widget that allows players to donate planets easely.
 It shows only on podium.
+
 (Developed by MosKi & StupsKiesel)
+
 
 ToolBox: 
 This is a litle Player menu in PyPlanet theme style
