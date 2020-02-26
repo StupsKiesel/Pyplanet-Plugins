@@ -26,3 +26,9 @@ It has 10 buttons with hardcoded functions
 10. /help
 
 (Developed by MosKi & StupsKiesel)
+
+
+ChatSymbols:
+basicly the same as "ToolBox" but instead of executing commands it will write symbols for you in chat.
+
+(Developed by MosKi & StupsKiesel)
