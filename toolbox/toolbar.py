@@ -54,8 +54,8 @@ class ToolbarPlayer:
 	async def toggle_toolbar(self, player, *args, **kwargs):
 		if self.player_dict[player.login] == False:
 			await self.view.display([player.login])
-			message = '$s$o$fffToolBox $z$fffcreated by StupsKiesel & MosKi'
-			await self.instance.chat(message, player)
+			# message = '$s$o$fffToolBox $z$fffcreated by StupsKiesel & MosKi'
+			# await self.instance.chat(message, player)
 			self.player_dict[player.login] = True
 		else:
 			self.player_dict[player.login] = False
