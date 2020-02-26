@@ -1,6 +1,6 @@
 # Pyplanet-Plugins
 All the litle Plugind that were made by me or with me
-All the plugins need to be installed in "...\pyplanet\apps\custom\"
+All the plugins need to be installed in "...\pyplanet\apps\custom\" and in apps.py registered as "pyplanet.apps.custom.XXXXX"
 
 
 Donatewidget: 
